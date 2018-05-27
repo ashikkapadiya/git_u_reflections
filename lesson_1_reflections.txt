@@ -1,0 +1,43 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I could see the bug by checking a plus and minus signs. These signs indicate
+    which part of line differ from the two text files. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    To analyse the type of code which can be excluded or included in order to
+    write  better programs.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    We might accidently lose the data if we didn't commit in git. We need 
+    less storage require as we are not saving multiple versions. On the other 
+    hand if we use multiple versions we can avoid the need of recovering the data.
+    Also, catagorizing each commits by different feachers or important changes we
+    can differentiate two versions easily and can analyze them easiliy.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+	When we change multiple files that are having some connections we can add or 
+	remove code to them and then commit them togather. In google docs the each 
+	files are independent of each other. So, it doesn't require to commit togather.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    We can use git log for every commits that we made with some discriptions and git 
+    diff for viewing difference between two commits in detail.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    We could detect the changes which are performed by us without knowing and can 
+    correct them with commit feature provided by git.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use it in software project and competitive programming codes.
