@@ -16,6 +16,11 @@ to one commit and put them in repository.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+-when there are multiple team members or contributors want to implement same features in different 
+ways
+-when there are more than one versions requring changes to generate different set of 
+output
+-when there are more use cases of a project and to test them individually. 
 
 How do the diagrams help you visualize the branch structure?
 
