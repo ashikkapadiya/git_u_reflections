@@ -10,6 +10,9 @@ then to the repository through commits.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+If there are multiple files that are updated we can put each of them separately to 
+the staging area for a single logical change, then we can include all the changes
+to one commit and put them in repository.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
