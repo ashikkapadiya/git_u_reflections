@@ -23,9 +23,12 @@ output
 -when there are more use cases of a project and to test them individually. 
 
 How do the diagrams help you visualize the branch structure?
+-It gives pointers where we created branches and it can give us idea about the tree
+structured commit history to identify about a perticular branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
