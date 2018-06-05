@@ -28,7 +28,10 @@ structured commit history to identify about a perticular branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+-Merging is required when we need to combine different branches with different 
+features. 
+-Diagram representation helps in indentifying the commit histroy for braches during 
+the branching phase.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
