@@ -35,3 +35,7 @@ the branching phase.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+-When we merge automatically git raises conflict for the
+uncommon issues where there are two variations in each braches
+-It is useful to merge manually to avoid small errors and to resolve conflicts in
+merging different branches
