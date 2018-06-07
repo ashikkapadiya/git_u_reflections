@@ -6,10 +6,13 @@ automatically stay up-to-date with your remote repository?
 -Before pulling a brach to a local repository we need to check the commits to 
 verify its truth vesion after anyone else commiting the repository to avoid errors.
 
-Describe the differences between forks, clones, and branches.  When would you
+Describe the differences between forks, clones, and branches. When would you
 use one instead of another?
-
-    Fill in your answer here
+-Fork is used when we want to change any repository with many contributors. It copies content
+to git rather than local machine.
+-Clone is used when we want to copy content to the local machine.
+-Branches are used when there are many purposes to modify code for experiments or 
+bug improvements. 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
