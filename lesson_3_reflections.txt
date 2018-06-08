@@ -20,8 +20,9 @@ stored locally?
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+-I can collaborate with others on code by using teamviewer type of software or any virtual machine
+accessed using client, however github is much helpful as there is no need for all of the 
+collaborators to be with togather.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
