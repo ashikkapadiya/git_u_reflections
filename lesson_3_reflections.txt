@@ -26,5 +26,5 @@ collaborators to be with togather.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+When introducing new features simultanously to the code, there might be new bugs which get created.
+So, it is advisable to work on a branches then  merge it with local master later when they are finished. 
